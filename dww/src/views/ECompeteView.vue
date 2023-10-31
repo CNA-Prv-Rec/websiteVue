@@ -1,0 +1,55 @@
+<script setup lang="ts">
+    import ContentImage from '@/components/ContentImage.vue';
+</script>
+
+
+<template>
+     <ContentImage />
+    <div class="contentSection">
+     
+        <h1>eCompete</h1>
+
+        <p>
+            A rapid-build software framework. For those times when you don't have the time or resources to allocate a developer to an urgent project. For when you want to speed up development to compete aggressively in a challenging or crowded market, get your idea off the ground fast or be first to catch an upcoming new demand. For companies who just don't have development teams to write their own stuff and don't want to spend huge amounts of money on expensive third party software. For researchers who frankly have far better things to do than worry about building data entry, collection, validation and security software.
+        </p>
+        <p>
+        Do you have an aging front-end on an existing system? Is it possibly end of life and no longer supported? With eCompete you can replace user interfaces on existing systems with ease and for a fraction of the cost of a full revamp.
+        </p>
+        <p>
+        Our system is pre-optimised for speed and has in-built security and scalability features so all the hard work is done for you before you even start work on a project. If you need speed of development and scalability, eCompete is for you.
+        </p>
+        <p>
+        At Design with Wisdom we build all our software on the eCompete platform. That's how powerful it is.
+        </p>
+        <p>
+        Build anything.
+        </p>
+        <p>
+        Now:-)
+        </p>
+
+        <h1>Features</h1>
+        <ul>
+            <li>Hybrid architecture- host in cloud, on premise or a mix of both</li>
+            <li>Sharded scale-out/access control capability</li>
+            <li>Inbuilt workflow designer</li>
+            <li>Auto-build features</li>
+            <li>Unlimited number of shards</li>
+            <li>Ability to integrate existing code</li>
+            <li>ble to integrate into other applications</li>
+            <li>cosystem management for large international organisations navigating different legislative data regimes</li>
+        </ul> 
+     </div>
+  </template>
+  
+  <style>
+  @media (min-width: 1024px) {
+    .eCompete {
+      min-height: 100vh;
+   
+    }
+  }
+  </style>
+  
+
+  
